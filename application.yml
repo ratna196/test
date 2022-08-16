@@ -1,0 +1,5 @@
+my:
+  greeting: welcome to GL
+  list:
+    values: core,spring,jpa
+  age: 20
