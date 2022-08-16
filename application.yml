@@ -1,7 +1,11 @@
 
-cloud:
+ profiles:
+    active: dev
+  cloud:
     config:
-        fail-fast: false
+      fail-fast: true
+      profile: ${spring.profiles.active}
+      label: ${spring.profiles.active}
 my:
   greeting: welcome to GL
   list:
