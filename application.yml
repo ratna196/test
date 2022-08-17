@@ -3,7 +3,7 @@ cloud:
     config:
         fail-fast: false
 my:
-  greeting: welcome to GL
+  greeting: welcome to GL Bajaj
   list:
     values: core,spring,jpa
   age: 20
