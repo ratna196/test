@@ -7,7 +7,7 @@
       profile: ${spring.profiles.active}
       label: ${spring.profiles.active}
 my:
-  greeting: welcome to GL
+  greeting: welcome to GL Bajaja
   list:
     values: core,spring,jpa
   age: 20
