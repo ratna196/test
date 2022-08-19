@@ -3,7 +3,7 @@ cloud:
     config:
         fail-fast: false
 my:
-  greeting: welcome to HCL Bajaj Mathura Noida Delhi Defaul
+  greeting: welcome to HCL Noida Delhi Defaul
   list:
     values: core,spring,jpa
   age: 20
